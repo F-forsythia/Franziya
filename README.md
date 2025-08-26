@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Franzeal Juarez
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning network security
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me , just email me.
+- 📫 How to reach me , just email me  @franzeal.juarez@g.msuiit.edu.ph
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I'm an ambivert person.
 
