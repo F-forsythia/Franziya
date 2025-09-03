@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Franzeal Juarez GitHub Banner" />
+</p>
+ 
  #
  👋 Hi, I'm Franzeal Juarez  
 📚 4th Year *BSIT* student at *MSU-IIT*  
