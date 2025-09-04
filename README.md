@@ -6,7 +6,7 @@
  👋 Hi, I'm Franzeal Juarez  
 📚 4th Year *BSIT* student at *MSU-IIT*  
 🌐 Facebook: [Franzeal Juarez](https://www.facebook.com/FranzealJuarez)  
-📧 Email: *franeal.juarez@g.msuiit.edu.ph*  
+📧 Email: *franzeal.juarez@g.msuiit.edu.ph*  
 😃 Personality: Ambivert  
 
 ### 🌱 About Me  
